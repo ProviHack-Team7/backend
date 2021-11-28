@@ -21,3 +21,5 @@ CREATE TABLE IF NOT EXISTS quizz(
          incorrect_3 VARCHAR(255) NOT NULL
 );
 
+SELECT * FROM quizz;
+
