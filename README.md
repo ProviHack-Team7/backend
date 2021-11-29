@@ -1,4 +1,4 @@
-## Duda - Plataforma educacional inclusiva
+## Duda Academy - Plataforma educacional inclusiva
 
 Projeto da Hackathon ProviHack para Todos (TIME 7) - 26 a 28 de novembro de 2021
 A plataforma que conecta professores e alunos com o objetivo fornecer educação sobre diversidade e fomentar projetos de inclusão nas instituições de ensino.
