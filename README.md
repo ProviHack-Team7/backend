@@ -42,9 +42,9 @@ A plataforma que conecta professores e alunos com o objetivo fornecer educação
 2) npm install
 3) npm run dev start
 
-#### Link de deploy no heroku
+#### Link base de deploy no heroku
 https://duda-seven.herokuapp.com/
 
 #### Link da collection do Postman
-Workspace: https://go.postman.co/workspace/My-Workspace~71c322df-3562-44b9-8378-61d472a64c4d/collection/15066614-274e8368-915f-4b7a-807d-6ed99ed84927
-JSON Link: https://www.getpostman.com/collections/799749652f902a951a95
+- Workspace: https://go.postman.co/workspace/My-Workspace~71c322df-3562-44b9-8378-61d472a64c4d/collection/15066614-274e8368-915f-4b7a-807d-6ed99ed84927
+- JSON Link: https://www.getpostman.com/collections/799749652f902a951a95
